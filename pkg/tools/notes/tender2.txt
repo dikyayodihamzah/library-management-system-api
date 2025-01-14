@@ -1,0 +1,23 @@
+project id (ess)
+departement ID (ess)
+name 
+number (unique)
+visibility
+public type - kemungkinan dynamic
+quotationID
+start bid
+close bid
+start review
+close review
+sart approval
+close approval
+announcement date
+
+
+tender approval 
+NIK
+Order
+
+tender_vendor 
+companyID
+

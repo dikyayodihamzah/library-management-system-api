@@ -1,0 +1,16 @@
+tender number 
+SC/MTN-serial/bulan/tahun max 999 -> failed if 999+ 
+sub commodities []
+open bid
+close bid
+
+
+sort
+semua  kecuali sub commodities
+status_id
+
+tender name unique
+
+search [tender name, subCommodity, commodity]
+
+commodity, status, visibility, 
